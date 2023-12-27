@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ibexcamq/fiverr.ibexstack.com/git_practice/
+    - /bin/cp * $DEPLOYPATH
